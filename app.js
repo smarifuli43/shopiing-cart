@@ -1,3 +1,4 @@
+// for updating price and tax onload
 updateTotal();
 // product update function
 function updateProduct(inputId, price, isIncreaing) {
